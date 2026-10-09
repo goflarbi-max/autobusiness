@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://versalmotors-7wbegxwyqdhtvyjrz87mbi.streamlit.app/$1"
+    }
+  ]
+}
