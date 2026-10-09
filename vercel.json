@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://versalmotors-7wbegxwyqdhtvyjrz87mbi.streamlit.app/$1"
+      "destination": "https://versalmotors.streamlit.app/$1"
     }
   ]
 }
